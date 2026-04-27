@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://institutoneylagiachetta.institutovenditti.org/sitemap.xml
