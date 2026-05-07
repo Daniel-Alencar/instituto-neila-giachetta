@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://institutoneylagiachetta.org/sitemap.xml
+Sitemap: https://institutoneylagiachetta.com.br/sitemap.xml
